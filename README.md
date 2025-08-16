@@ -35,9 +35,12 @@ See the detailed syllabus in `maths_physics_syllabus_before_ai_ml.MD`.
        - `.\n+venv\Scripts\Activate.ps1`
        - `pip install -r root_files/requirements.txt`
 
-3) Optional: Jupyter Lab
-   - Local: `jupyter lab`
-   - Docker: `docker compose -f root_files/docker-compose.yml up -d` then open `http://localhost:8888`
+3) Jupyter Lab
+   - Run: `jupyter lab` then open `http://localhost:8888`
+   
+      **OR**
+
+   - Docker (optional): `docker compose -f root_files/docker-compose.yml up -d` then open `http://localhost:8888`
 
 4) Start learning
    - Begin with `01-mathematics/linear-algebra/lessons/` and follow each lesson with its exercise. Check `solutions/` after attempting.
