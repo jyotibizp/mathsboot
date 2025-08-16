@@ -40,7 +40,7 @@ See the detailed syllabus in `maths_physics_syllabus_before_ai_ml.MD`.
    - Docker: `docker compose -f root_files/docker-compose.yml up -d` then open `http://localhost:8888`
 
 4) Start learning
-   - Begin with `1-mathematics/linear-algebra/lessons/` and follow each lesson with its exercise. Check `solutions/` after attempting.
+   - Begin with `01-mathematics/linear-algebra/lessons/` and follow each lesson with its exercise. Check `solutions/` after attempting.
 
 ## Submissions
 
