@@ -1,0 +1,20 @@
+# Core math & scientific stack
+numpy==1.26.4
+scipy==1.13.1
+sympy==1.12
+
+# Data handling & plotting
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Notebooks
+jupyterlab==4.2.3
+notebook==7.2.1
+ipywidgets==8.1.2
+
+# (Optional) Useful extras for this course
+# networkx==3.3           # graphs (discrete math / algorithms)
+# statsmodels==0.14.2     # statistical tests / models
+# numba==0.59.1           # speed up numeric code (optional)
+# scikit-learn==1.4.2     # light ML utilities/datasets (optional, later)
